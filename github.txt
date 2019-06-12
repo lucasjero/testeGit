@@ -1,0 +1,4 @@
+
+
+touch <nome>.<extensão> // cria aquivos
+git add . // adiciona arquivos
